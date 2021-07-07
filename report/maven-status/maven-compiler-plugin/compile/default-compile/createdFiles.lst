@@ -1,0 +1,15 @@
+elpisclothing/pageObjects/Login_PageObject.class
+elpisclothing/pageObjects/Account_PageObject.class
+elpisclothing/pageObjects/Home_PageObject.class
+elpisclothing/pageUIs/Product_Search_PageUI.class
+elpisclothing/pageObjects/Product_ViewDetail_PageObject.class
+elpisclothing/pageObjects/Menu_PageObject.class
+elpisclothing/pageUIs/Home_PageUI.class
+elpisclothing/pageUIs/Product_Cart_PageUI.class
+common/CommonPageObject.class
+elpisclothing/pageUIs/Login_PageUI.class
+elpisclothing/pageObjects/Product_Search_PageObject.class
+elpisclothing/pageUIs/Menu_PageUI.class
+elpisclothing/pageUIs/Product_ViewDetail_PageUI.class
+elpisclothing/pageUIs/Account_PageUI.class
+elpisclothing/pageObjects/Product_Cart_PageObject.class

@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"01_Đăng nhập","01_Đăng nhập thành công","SUCCESS","2021-05-30T09:23:14.796+07:00[Asia/Ho_Chi_Minh]","0.0","31.81"
+"01_Đăng nhập","02_Đăng nhập không thành công","SUCCESS","2021-05-30T09:23:47.316+07:00[Asia/Ho_Chi_Minh]","0.0","88.22"
+"02_Tìm kiếm sản phẩm","01_Tìm kiếm","SUCCESS","2021-05-30T09:25:15.554+07:00[Asia/Ho_Chi_Minh]","0.0","75.61"
+"03_Thêm sản phẩm vào giỏ hàng","01_Thêm vào giỏ hàng thành công","SUCCESS","2021-05-30T09:26:31.175+07:00[Asia/Ho_Chi_Minh]","0.0","76.51"
+"04_Sửa sản phẩm ở giỏ hàng","01_Sửa giỏ hàng thành công","SUCCESS","2021-05-30T09:27:47.693+07:00[Asia/Ho_Chi_Minh]","0.0","51.42"
+"05_Xoá sản phẩm khỏi giỏ hàng","01_Xoá giỏ hàng thành công","SUCCESS","2021-05-30T09:28:39.779+07:00[Asia/Ho_Chi_Minh]","0.0","36.23"
